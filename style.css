@@ -1,10 +1,11 @@
 body {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Courie', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
     background-color: teal;
     color: white;
     text-align: center;
   }
   #hangman-word {
+    letter-spacing: 0.25em;
     font-size: 24px;
     margin-bottom: 20px;
   }

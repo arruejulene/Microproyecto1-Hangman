@@ -1,5 +1,5 @@
     // Lista de palabras
-    const words = ['julene', 'pared', 'luna', 'jupiter', 'bases', 'datos'];
+    const words = ['julene','pared','luna','jupiter','bases','datos','abrelatas','disposicion','pelusa','aire','escritura','periferia','amor','escuela','perro','Andrés','esfera','pilar','animal','esquina','piscina','Argentina','facilidad','planta','asiento','favor','pomelo','atomo','galleta','posavasos','barco','Guadalupe','posibilidad','bateria','guitarra','programa','bondad','hoja','puerta','boton','idea','quejido','bufanda','joroba','rectangulo','cable','juguete','ropa','calculadora','julio','silla','carpeta','libros','sonido','cartera','limon','suciedad','casco','loro','suerte','celular','luz','sustancia','cerradura','manantial','tarima','cesped','mano','telefono','Chile','mausoleo','televidente','circulo','mesa','tierra','ciruela','Mexico','tigre','ciudad','molecula','trabajo','claridad','moneda','triangulo','clavel','mueble','tulipán','Colombia','nariz','Uruguay','competencia','Nicolas','utensilio','computadora','notas','vaso','cuaderno','numero','ventana','cuerda','pantalla','vidrio','curiosidad','parlante','violin','dedo','pasto','visita'];
 
     let chosenWord = '';
     let wordToGuess = '';
