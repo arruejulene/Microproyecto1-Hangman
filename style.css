@@ -1,0 +1,33 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: teal;
+    color: white;
+    text-align: center;
+  }
+  #hangman-word {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  #keyboard {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .key {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    background-color: rgb(254, 254, 254);
+    color: rgb(19, 1, 1);
+    border: 1px solid rgb(11, 10, 10);
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  #chances {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  #scoreboard {
+    margin-top: 20px;
+  }
